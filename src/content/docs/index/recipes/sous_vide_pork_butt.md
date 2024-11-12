@@ -3,7 +3,7 @@ title: Sous Vide Pork Butt
 
 hero:
     actions:
-    - text: Back to Main List
+    - text: Back to Recipe List
       link: /index/recipe_index/
 ---
 

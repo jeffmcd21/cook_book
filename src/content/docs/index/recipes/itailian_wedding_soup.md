@@ -3,7 +3,7 @@ title: Itailian Wedding Soup
 # description: A guide in my new Starlight docs site.
 hero:
     actions:
-    - text: Back to Main List
+    - text: Back to Recipe List
       link: /index/recipe_index/
 ---
 ##### Servings: 8
