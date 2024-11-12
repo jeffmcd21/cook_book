@@ -1,6 +1,10 @@
 ---
-title: Example Guide
+title: Back to Home
 description: A guide in my new Starlight docs site.
+hero:
+    actions:
+    - text: Back to Home
+      link: /
 ---
 
 Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
