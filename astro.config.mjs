@@ -21,6 +21,12 @@ export default defineConfig({
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
+				{
+					label: 'Recipes',
+					items: [
+						{ label: 'Recipe List', slug: 'index/recipe_index' },
+					],
+				},
 			],
 		}),
 	],
