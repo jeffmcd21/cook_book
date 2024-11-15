@@ -50,3 +50,6 @@ Generously grease waffle iron using cooking spray. Cook one piece of dough at a 
 
 ###### Recipe Notes
 - To clean waffle iron, use a spatula to remove any remaining bits of sugar while waffle iron is still warm. You may also use a damp cloth or paper towel at the end of a silicone spatula to clean. 
+
+
+[Back to Home](/).

@@ -1,11 +1,13 @@
 ---
 title: Itailian Wedding Soup
-# description: A guide in my new Starlight docs site.
+description: A guide in my new Starlight docs site.
 hero:
     actions:
     - text: Back to Recipe List
       link: /index/recipe_index/
 ---
+
+
 ##### Servings: 8
 
 ## <u>Ingredients:</u>
@@ -66,3 +68,16 @@ hero:
 
 #### Step 7:
 - Add some of the pasta to a bowl and ladle soup over the top, garnish with grated cheese and EVOO.
+
+
+<!-- <LinkButton
+  href="https://docs.astro.build"
+  variant="secondary"
+  icon="external"
+  iconPlacement="start"
+>
+</LinkButton> -->
+
+
+
+   [Back to Home](/).
