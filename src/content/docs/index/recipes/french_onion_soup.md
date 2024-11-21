@@ -55,3 +55,7 @@ hero:
 - Then spoon more soup and onions on top, nearly filling bowls. Set another piece of toast in bowls, pushing to nearly submerge them. 
 - Top with additional grated cheese and set bowls on a rimmed baking sheet. Broil until cheese is melted and browned in spots. 
 - (Optional garnish with chives) and serve.
+
+
+
+[Back to Home](/).
