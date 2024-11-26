@@ -10,7 +10,7 @@ hero:
 ##### Servings: 8
 
 ## <u>Ingredients:</u>
-- Unsalted Butter (8 Tablespoods)
+- Unsalted Butter (8 Tablespoons)
 - Onions (6lbs or 8 medium/large), sliced 1/8 inch thick
     * 1 Red onion
     * 3 Shallots
