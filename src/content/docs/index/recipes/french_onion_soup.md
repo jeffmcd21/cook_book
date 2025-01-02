@@ -17,8 +17,8 @@ hero:
     * 6 Yellow or Vidalia Onions
 - Kosher Salt and Black Pepper
 - White Wine (1/2 Cup)
-- Dry Sherry (1/2 Cup)
 - All-purpose Flour (1 Tablespoon)
+- Dry Sherry (1/2 Cup)
 - Beef or Chicken Stock (4 Quarts or 16 Cups), warm separately
 - Fresh Thyme (4 Sprigs)
 - Bay Leafs 2
